@@ -10,7 +10,7 @@ header:
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
   cta_url: "/units.html"
-excerpt: Ein Einstieg in die dei digitale Modellierung im (Biologie-) Unterricht.
+excerpt: Ein Einstieg in die digitale Modellierung im (Biologie-) Unterricht.
 feature_row_intro:
 - excerpt: Teil von [#MKP]((https://www.ldm.uni-kiel.de/de/mkp-medienkompetenz-in-der-praxis)){:target="_blank"} 
 feature_row_ilos:
